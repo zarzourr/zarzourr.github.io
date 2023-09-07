@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+
+    <title>Zee's Cheatsheet</title>
+</head>
+<body>
+<div class="header">
+    <h1>Zee's Cheatsheet</h1>
+</div>
+<div class="html">
+    <h2>HTML Tag meaning</h2>
+    <table>
+        <thead>
+        <tr>
+        <th>Tag/Syntax</th>
+        <th>Description</th>
+        </tr>
+        </thead>
+        <tbody>
+          <tr>
+              <td>!DOCTYPE HTML </td>
+              <td>The starting of every html document!</td>
+          </tr>
+        <tr>
+            <td>Head</td>
+            <td>Head is used for linking anything (css,fonts, everything)</td>
+        </tr>
+        <tr>
+            <td>body</td>
+            <td>Contains every main thing in the html</td>
+        </tr>
+        <tr>
+            <td>div</td>
+            <td>divison for dividing the html into sections and giving them classes</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+    <div class="css">
+        <h2>CSS Tags</h2>
+        <table>
+            <tr>
+                <th>Tag/Syntax</th>
+                <th>description</th>
+            </tr>
+        </table>
+
+
+    </div>
+</div>
+
+</body>
+</html>
